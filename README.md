@@ -27,7 +27,7 @@
 <p align="left">
  <a href="mailto:lahasyakr.07@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="lahasyak,r.07" height="25" width="35" /></a>
 <a href="https://twitter.com/lahasyakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahasyakr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lahasya k r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahasya k r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lahasya k r" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="lahasya k r" height="30" width="40" /></a>
 <a href="https://instagram.com/lahasyak.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahasyak,r" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lahasya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lahasya" height="30" width="40" /></a>
 </p>

@@ -5,9 +5,9 @@
 
 - 👨‍💻 I’m currently in my second semester.
 ## Cuurent Projects
-  * <a href="https://github.com/oopsuwu/Collaborative-Segmentation-Software">Neuroimaging Annotation & Collaboration</a>
+  - ### <a href="https://github.com/oopsuwu/Collaborative-Segmentation-Software">Neuroimaging Annotation & Collaboration</a>
 
-  * <a href="https://github.com/Lahasyakr/CS682-Project4b">CryptoLib</a>
+  - ### <a href="https://github.com/Lahasyakr/CS682-Project4b">CryptoLib</a>
 
 
  ## How to reach me? DM me on: 📫

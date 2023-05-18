@@ -3,12 +3,18 @@
 <h3 align="left">A passionate Software Engineer from India, who is pursuing her master's in computer science from UMASS boston.</h3>
 
 
-- 👨‍💻 I’m currently in my second semester [working with two exciting projects](details coming up soon !)]
-- How to reach me? DM me on: 📫
-     - <a href="https://www.linkedin.com/in/lahasya-k-r-297331108/">Linked in</a> <a href="https://www.linkedin.com/in/lahasya-k-r-297331108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="lahasyak r" height="20" width="30" /></a>
-    - <a href="https://twitter.com/Lahasyakr">Twitter</a> <a href="https://twitter.com/lahasyakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahasyakr" height="20" width="30" /></a>
-    - <a href="https://instagram.com/lahasyak.r">Instagram</a> <a href="https://instagram.com/lahasyak.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahasyak.r" height="20" width="30" /></a>
-    - <a href="mailto:lahasyakr.07@gmail.com">Email</a> <a href="mailto:lahasyakr.07@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="lahasyak,r.07" height="26" width="25" /></a>
+- 👨‍💻 I’m currently in my second semester.
+## Cuurent Projects
+  * <a href="https://github.com/oopsuwu/Collaborative-Segmentation-Software">Neuroimaging Annotation & Collaboration</a>
+
+  * <a href="https://github.com/Lahasyakr/CS682-Project4b">CryptoLib</a>
+
+
+ ## How to reach me? DM me on: 📫
+   - <a href="https://www.linkedin.com/in/lahasya-k-r-297331108/">Linked in</a> <a href="https://www.linkedin.com/in/lahasya-k-r-297331108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="lahasyak r" height="20" width="30" /></a>
+   - <a href="https://twitter.com/Lahasyakr">Twitter</a> <a href="https://twitter.com/lahasyakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahasyakr" height="20" width="30" /></a>
+   - <a href="https://instagram.com/lahasyak.r">Instagram</a> <a href="https://instagram.com/lahasyak.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahasyak.r" height="20" width="30" /></a>
+   - <a href="mailto:lahasyakr.07@gmail.com">Email</a> <a href="mailto:lahasyakr.07@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="lahasyak,r.07" height="26" width="25" /></a>
 
 
 <h3 align="left">Most Used Languages and Tools:</h3>
